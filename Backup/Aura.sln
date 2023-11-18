@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intermediate", "Intermediate", "{29AA87DD-E280-4373-9F23-D643EC68453D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{7B818ACC-51F2-41EC-BD52-0C2762E396EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildRulesProjects", "BuildRulesProjects", "{303E9C81-F261-4735-960A-F7882C346A23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuraModuleRules", "Intermediate\Build\BuildRulesProjects\AuraModuleRules\AuraModuleRules.csproj", "{A27785E1-FF15-401F-9887-754B7F1812BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27785E1-FF15-401F-9887-754B7F1812BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27785E1-FF15-401F-9887-754B7F1812BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27785E1-FF15-401F-9887-754B7F1812BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27785E1-FF15-401F-9887-754B7F1812BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B818ACC-51F2-41EC-BD52-0C2762E396EC} = {29AA87DD-E280-4373-9F23-D643EC68453D}
+		{303E9C81-F261-4735-960A-F7882C346A23} = {7B818ACC-51F2-41EC-BD52-0C2762E396EC}
+		{A27785E1-FF15-401F-9887-754B7F1812BE} = {303E9C81-F261-4735-960A-F7882C346A23}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E1720D4-B587-4268-BDC6-98032B1E2C66}
+	EndGlobalSection
+EndGlobal

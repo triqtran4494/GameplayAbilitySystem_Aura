@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\GAS\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GAS\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "D:\\Epic Games Work\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GAS\\Aura\\Source\\Aura\\Aura.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GAS\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "D:\\Epic Games Work\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GAS\\Aura\\Source\\Aura\\Aura.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GAS\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "D:\\Epic Games Work\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GAS\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GAS\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "D:\\Epic Games Work\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GAS\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GAS\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "D:\\Epic Games Work\\UE_5.3\\Engine\\Source"
+	}
+]
